@@ -42,41 +42,95 @@ For this analysis, Pandas was used to change the "tripduration" column from an i
 
 ### Checkout Times
 
+- Majority of the bike trips are under 30 minutes long
+- Average bike usage per trip is approximately 15 minutes
+
 ![Checkout Times](/Resources/checkout_times.png)
 
 ### Checkout Times by Gender
+
+- Both, male and female bike riders demonstrate similar bike usage per trip
+- Average ride is approximately 15 minutes long for males and females
 
 ![Checkout Times by Gender](/Resources/checkout_times_by_gender.png)
 
 ### Trips by Weekday
 
+- On workdays, largest number of trips occur between 7 and 9 am and between 5 and 7 pm
+- The busiest day for trips is Thursday
+- Wednesday evenings are less busy than other workday evenings
+- On the weekends, the busiest ride time is between 10 am and 5pm
+
 ![Trips by Weekday](/Resources/trips_by_weekday.png)
 
 ### Trips by Gender
+
+- Both, male and female bike riders demonstrate similar bike usage behaviors by weekday and time
 
 ![Trips by Gender](/Resources/trips_by_gender.png)
 
 ### Trips by Gender by Weekday
 
+- Subscribers use the bike service much more frequently
+- The busiest day for subscribers is Thursday
+- Non-subscription customers demonstrate higher usage of the bike service on the weekends for both males and females
+- Male and female users demonstrate comparable behaviors by weekday and by user type
+
 ![Trips by Gender by Weekday](/Resources/trips_by_gender_by_weekday.png)
 
 ### Top Starting Locations
+
+- Top locations to start bike riding trips in NYC: High School, Grand Central Terminal, Union Square (market, cafes, stores, and artists), Ferry Terminal, River bank, Central Park, and New York Penn Station
+
+- Characteristics of the most popular bike ridign trip starting locations:
+
+    - Proximity to mass transit / transportation hubs
+    - Proximity to tourist and major shopping and cafe attractions
+    - Areas with high population density and traffic challenges
+    - Areas with high number of office spaces / high number of commuting employees
+    - Proximity to parks
+    - Proximity to high schools
 
 ![Top Starting Locations](/Resources/top_starting_locations.png)
 
 ### Top Ending Locations
 
+- Top locations to end bike riding trips in NYC: High School, Grand Central Terminal, Union Square (market, cafes, stores, and artists), Ferry Terminal, River bank, Central Park, and New York Penn Station
+
+- Characteristics of the most popular bike ridign trip ending locations:
+
+    - Proximity to mass transit / transportation hubs
+    - Proximity to tourist and major shopping and cafe attractions
+    - Areas with high population density and traffic challenges
+    - Areas with high number of office spaces / high number of commuting employees
+    - Proximity to parks
+    - Proximity to high schools
+
 ![Top Ending Locations](/Resources/top_ending_locations.png)
 
 ### August Peak Hours
+
+- The lowest usage of the bikes is between 2 am and 4 am. This is the best time for bike maintenance
+- The peak usage is between 4 pm and 7 pm and around 8 am. Consider variable pricing based on time of day (and weekeday) to shave off the peak demand for the bikes and get more riders during off-peak hours.
 
 ![August Peak Hours](/Resources/august_peak_hours.png)
 
 ### Customers
 
+- 81% of users used subscription
+- 19% of users used the pay-as-you-go model
+- High subscription rate has a positive impact on the business: better predictability of demand, recurring revenue streams, and customer loyalty
+
 ![Customers](/Resources/customers.png)
 
 ### Gender Breakdown
 
+- 65% of bike riders in NYC are males
+- 25% of NYC bike riders are females
+- For the existing business in NYC, the female population is the main growth opportunity => create marketing campaign focusing on females
+- For the greenfield business in Des Moines, initial customer base is likely to be predominantly males => focus the marketing campaign on male users to accelerate building the initial customer base
+
 ![Gender Breakdown](/Resources/gender_breakdown.png)
+
+## Summary
 
