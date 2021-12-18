@@ -114,7 +114,7 @@ For this analysis, Pandas was used to change the "tripduration" column from an i
 
 ## Summary
 
-### Summary of the Results
+### Summary of the Results & Recommendations
 
 **Product Marketing:**
 
