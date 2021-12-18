@@ -118,23 +118,24 @@ For this analysis, Pandas was used to change the "tripduration" column from an i
 
 **Product Marketing:**
 
-    - For the existing business in NYC, the female population is the main growth opportunity => create marketing campaign focusing on females
-    - For the greenfield business in Des Moines, initial customer base is likely to be predominantly males => focus the marketing campaign on male users to accelerate building the initial customer base
-    - High subscription rate has a positive impact on the business: better predictability of demand, recurring revenue streams, and customer loyalty => prioritize marketing the subscription service
+- For the existing business in NYC, the female population is the main growth opportunity => create marketing campaign focusing on females
+- For the greenfield business in Des Moines, initial customer base is likely to be predominantly males => focus the marketing campaign on male users to accelerate building the initial customer base
+- High subscription rate has a positive impact on the business: better predictability of demand, recurring revenue streams, and customer loyalty => prioritize marketing the subscription service
 
 **Characteristics of the most popular bike riding trip starting and ending locations:**
 
-    - Proximity to mass transit / transportation hubs
-    - Proximity to tourist and major shopping and cafe attractions
-    - Areas with high population density and traffic challenges
-    - Areas with high number of office spaces / high number of commuting employees
-    - Proximity to parks
-    - Proximity to high schools
+- Proximity to mass transit / transportation hubs
+- Proximity to tourist and major shopping and cafe attractions
+- Areas with high population density and traffic challenges
+- Areas with high number of office spaces / high number of commuting employees
+- Proximity to parks
+- Proximity to high schools
 
 **Bike Usage:** 
-    - Average bike usage per trip is approximately 15 minutes
-    - The lowest usage of the bikes is between 2 am and 4 am. This is the best time for bike maintenance
-    - The peak usage is between 4 pm and 7 pm and around 8 am. Consider variable pricing based on time of day (and weekeday) to shave off the peak demand for the bikes and get more riders during off-peak hours.
+
+- Average bike usage per trip is approximately 15 minutes
+- The lowest usage of the bikes is between 2 am and 4 am. This is the best time for bike maintenance
+- The peak usage is between 4 pm and 7 pm and around 8 am. Consider variable pricing based on time of day (and weekeday) to shave off the peak demand for the bikes and get more riders during off-peak hours.
 
 ### Additional Analyses and Visualizations Suggested for the Next Phase of the Project
 
