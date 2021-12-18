@@ -82,36 +82,18 @@ For this analysis, Pandas was used to change the "tripduration" column from an i
 
 - Top locations to start bike riding trips in NYC: High School, Grand Central Terminal, Union Square (market, cafes, stores, and artists), Ferry Terminal, River bank, Central Park, and New York Penn Station
 
-- Characteristics of the most popular bike ridign trip starting locations:
-
-    - Proximity to mass transit / transportation hubs
-    - Proximity to tourist and major shopping and cafe attractions
-    - Areas with high population density and traffic challenges
-    - Areas with high number of office spaces / high number of commuting employees
-    - Proximity to parks
-    - Proximity to high schools
-
 ![Top Starting Locations](/Resources/top_starting_locations.png)
 
 ### Top Ending Locations
 
 - Top locations to end bike riding trips in NYC: High School, Grand Central Terminal, Union Square (market, cafes, stores, and artists), Ferry Terminal, River bank, Central Park, and New York Penn Station
 
-- Characteristics of the most popular bike ridign trip ending locations:
-
-    - Proximity to mass transit / transportation hubs
-    - Proximity to tourist and major shopping and cafe attractions
-    - Areas with high population density and traffic challenges
-    - Areas with high number of office spaces / high number of commuting employees
-    - Proximity to parks
-    - Proximity to high schools
-
 ![Top Ending Locations](/Resources/top_ending_locations.png)
 
 ### August Peak Hours
 
 - The lowest usage of the bikes is between 2 am and 4 am. This is the best time for bike maintenance
-- The peak usage is between 4 pm and 7 pm and around 8 am. Consider variable pricing based on time of day (and weekeday) to shave off the peak demand for the bikes and get more riders during off-peak hours.
+- The peak usage is between 4 pm and 7 pm and around 8 am. 
 
 ![August Peak Hours](/Resources/august_peak_hours.png)
 
@@ -119,7 +101,6 @@ For this analysis, Pandas was used to change the "tripduration" column from an i
 
 - 81% of users used subscription
 - 19% of users used the pay-as-you-go model
-- High subscription rate has a positive impact on the business: better predictability of demand, recurring revenue streams, and customer loyalty
 
 ![Customers](/Resources/customers.png)
 
@@ -127,10 +108,37 @@ For this analysis, Pandas was used to change the "tripduration" column from an i
 
 - 65% of bike riders in NYC are males
 - 25% of NYC bike riders are females
-- For the existing business in NYC, the female population is the main growth opportunity => create marketing campaign focusing on females
-- For the greenfield business in Des Moines, initial customer base is likely to be predominantly males => focus the marketing campaign on male users to accelerate building the initial customer base
+
 
 ![Gender Breakdown](/Resources/gender_breakdown.png)
 
 ## Summary
 
+### Summary of the Results
+
+#### Product Marketing:
+
+    - For the existing business in NYC, the female population is the main growth opportunity => create marketing campaign focusing on females
+    - For the greenfield business in Des Moines, initial customer base is likely to be predominantly males => focus the marketing campaign on male users to accelerate building the initial customer base
+    - High subscription rate has a positive impact on the business: better predictability of demand, recurring revenue streams, and customer loyalty => prioritize marketing the subscription service
+
+#### Characteristics of the most popular bike riding trip starting and ending locations:
+
+    - Proximity to mass transit / transportation hubs
+    - Proximity to tourist and major shopping and cafe attractions
+    - Areas with high population density and traffic challenges
+    - Areas with high number of office spaces / high number of commuting employees
+    - Proximity to parks
+    - Proximity to high schools
+
+#### Bike Usage: 
+    - Average bike usage per trip is approximately 15 minutes
+    - The lowest usage of the bikes is between 2 am and 4 am. This is the best time for bike maintenance
+    - The peak usage is between 4 pm and 7 pm and around 8 am. Consider variable pricing based on time of day (and weekeday) to shave off the peak demand for the bikes and get more riders during off-peak hours.
+
+### Additional Analyses and Visualizations Suggested for the Next Phase of the Project
+
+1. Bike usage based on district population density (number of bikes to cover the number of people living in and visiting each district)
+2. Financial Analysis: subscription and pay-as-you-go pricing per user, ride volumes by month, and capital & operational expenses to launch and operate the project
+3. Seasonality of the bike demand: it is likely that in winter months, the bike operation is on hold or substantially reduced, which will have a major impact on the business case
+4. Bike maintenance data - how frequently the bikes are serviced and the related costs
