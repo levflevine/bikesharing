@@ -92,7 +92,7 @@ For this analysis, Pandas was used to change the "tripduration" column from an i
 
 ### August Peak Hours
 
-- The lowest usage of the bikes is between 2 am and 4 am. This is the best time for bike maintenance
+- The lowest usage of the bikes is between 2 am and 4 am. 
 - The peak usage is between 4 pm and 7 pm and around 8 am. 
 
 ![August Peak Hours](/Resources/august_peak_hours.png)
@@ -116,13 +116,13 @@ For this analysis, Pandas was used to change the "tripduration" column from an i
 
 ### Summary of the Results
 
-#### Product Marketing:
+**Product Marketing:**
 
     - For the existing business in NYC, the female population is the main growth opportunity => create marketing campaign focusing on females
     - For the greenfield business in Des Moines, initial customer base is likely to be predominantly males => focus the marketing campaign on male users to accelerate building the initial customer base
     - High subscription rate has a positive impact on the business: better predictability of demand, recurring revenue streams, and customer loyalty => prioritize marketing the subscription service
 
-#### Characteristics of the most popular bike riding trip starting and ending locations:
+**Characteristics of the most popular bike riding trip starting and ending locations:**
 
     - Proximity to mass transit / transportation hubs
     - Proximity to tourist and major shopping and cafe attractions
@@ -131,7 +131,7 @@ For this analysis, Pandas was used to change the "tripduration" column from an i
     - Proximity to parks
     - Proximity to high schools
 
-#### Bike Usage: 
+**Bike Usage:** 
     - Average bike usage per trip is approximately 15 minutes
     - The lowest usage of the bikes is between 2 am and 4 am. This is the best time for bike maintenance
     - The peak usage is between 4 pm and 7 pm and around 8 am. Consider variable pricing based on time of day (and weekeday) to shave off the peak demand for the bikes and get more riders during off-peak hours.
